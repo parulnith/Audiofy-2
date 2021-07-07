@@ -1,6 +1,6 @@
 # Audiophy your Medium Blogs 
 
-This application allows you t
+
 
 ![App Screenshot - Login Screen](docs/screenshots/audio-page.png)
 ![App Screenshot - Home Page](docs/screenshots/home-page.png)
