@@ -1,0 +1,24 @@
+[App]
+Name = "ai.h2o.wave.audiopfy"
+Version = "0.8.1"
+Title = "Audiophy your Medium Blogs"
+Description = "Convert your Medium blogs to podcasts."
+LongDescription = "about.md"
+Category = "Machine Learning"
+Keywords = ["ai", "h2o", "ml", "wave", "nlp"]
+
+[Runtime]
+Module = "src.app"
+VolumeMount = "/data"
+VolumeSize = "4Gi"
+ResourceVolumeSize = "4Gi"
+MemoryLimit = "4Gi"
+MemoryReservation = "4Gi"
+CPULimit = "4"
+CPUReservation = "2"
+GPUCount = 0
+GPUType = ""
+
+
+
+
