@@ -22,7 +22,7 @@ New to H2O Wave? We recommend starting in the documentation to [download and run
 
 ```bash
 $ git clone git@github.com/parulnith/audiophy-2.git
-$ cd audiopy
+$ cd audiophy-2
 $ python3 -m venv venv
 $ source venv/bin/activate
 $ pip3 install -r requirements.txt
