@@ -21,7 +21,7 @@ New to H2O Wave? We recommend starting in the documentation to [download and run
 ### 2. Setup Your Python Environment
 
 ```bash
-$ git clone git@github.com/parulnith/audiopy.git
+$ git clone git@github.com/parulnith/audiophy-2.git
 $ cd audiopy
 $ python3 -m venv venv
 $ source venv/bin/activate
